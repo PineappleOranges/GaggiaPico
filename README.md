@@ -1,5 +1,3 @@
-# GaggiaPico
-
 # Status Report - 13 NOV 2021
 Working on copying and modifying the code from https://github.com/kkalbaugh/raspberry-freezer-monitor/blob/master/max31865.py
 I know some programming basics and little of Python, so this is a real eye-opener. The original code was written for Raspberry Pi,
@@ -8,7 +6,7 @@ so I think have to modify it slightly.
 I'm currently stripping it of the Internet code, and removing all the fault status code. I plan to bring fault status information back,
 I really need a motivation boost, and I think seeing it output a resistance/temp would be the ticket.
 
-
+# GaggiaPico
 
 First and foremost, the purpose of this project is to upgrade my Gaggia Classic Pro using at Raspberry Pi Pico. At the same time,
 I am also learning about embedded systems and re-learning programming while doing this project. Prior to this project, I have had no education
